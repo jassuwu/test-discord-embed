@@ -11,8 +11,8 @@ export default function Home() {
   return (
     <main className="bg-slate-950 flex min-h-screen flex-col items-center justify-between p-24">
       <WidgetBot
-        server="299881420891881473"
-        channel="355719584830980096"
+        server="1276075295287545856"
+        channel="1276075295870287914"
         width={800}
         height={600}
       />
